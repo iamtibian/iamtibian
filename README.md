@@ -14,6 +14,8 @@ Feel free to explore my GitHub repositories to see some of the projects I've wor
 <img border="0" src="https://wigle.net/bi/S87n8Zo+QVXs_DRPucRdAQ.png">
 </a>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ![Adafruit Badge](https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=plastic)
 ![Adafruit Badge](https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=flat)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
