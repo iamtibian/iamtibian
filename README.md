@@ -1,7 +1,5 @@
 # Hi there, I'm Tibian! 👋
 
-### About Me
-
 I'm a Systems Engineer with a passion for technology, building, and exploring new ideas. Whether it's tinkering with the latest gadgets, diving into a coding project, or creating something completely unique, I'm always excited to make cool things happen.
 
 - 📡 **Amateur Radio Operator**: Callsign **ADØZE**
