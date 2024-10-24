@@ -10,9 +10,6 @@ I'm a Systems Engineer with a passion for technology, building, and exploring ne
 
 Feel free to explore my GitHub repositories to see some of the projects I've worked on or am currently working on.
 
-### Get in Touch
-- Find me on [Wigle.net](https://wigle.net)!
-
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/S87n8Zo+QVXs_DRPucRdAQ.png">
 </a>
